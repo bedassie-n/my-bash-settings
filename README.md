@@ -1,2 +1,2 @@
 # my-bash-settings
-custom bash settings from Nathaniel
+custom bash settings for Nathaniel
